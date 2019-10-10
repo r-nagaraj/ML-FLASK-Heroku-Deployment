@@ -9,6 +9,8 @@
         Create HTML page (e.g index.html) and placed into template folder
         
         Create Requirments file (e.g requirements.txt) and mentioned Model dependent packages and its version.  The same packages will be downloaded by Heroku Cloud before starting deployment process.
+        
+        create Procfile and provide the reference of application python file name: FLASK application name (which is specified in application python file)  e.g : app:app
 
 Commit the Code in Github
 
